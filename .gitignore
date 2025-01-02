@@ -1,0 +1,23 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# IDE-specific
+.idea/
+.vscode/
+
+# Large files
+*.csv
+*.zip
+*.tar
+*.gz
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
