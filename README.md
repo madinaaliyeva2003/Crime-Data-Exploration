@@ -104,8 +104,5 @@ This project demonstrates how to explore and analyze crime data, uncover pattern
 - Predictive modeling to forecast crime trends.
 - Incorporating more granular time analysis, such as hourly or weekly crime patterns.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
